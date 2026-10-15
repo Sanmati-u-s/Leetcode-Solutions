@@ -20,6 +20,7 @@ My DSA practice journey using C++.
 | 4 | [35. Search Insert Position](https://leetcode.com/problems/search-insert-position/) | Easy | [C++](Arrays/Search_insert_position.cpp) |
 | 5 | [268. Missing Number](https://leetcode.com/problems/missing-number/) | Easy | [C++](Arrays/Missing_num.cpp) |
 | 6 | [1295. Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/) | Easy | [C++](Arrays/Even_num_of_digits.cpp) |
+| 7 | [1773. Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule/) | Easy | [C++](Arrays/Items_matching_rule.cpp) |
 
 
 
