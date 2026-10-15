@@ -19,6 +19,7 @@ My DSA practice journey using C++.
 | 3 | [9. Palindrome Number](https://leetcode.com/problems/palindrome-number/) | Easy | [C++](Arrays/Palindrome_num.cpp) |
 | 4 | [35. Search Insert Position](https://leetcode.com/problems/search-insert-position/) | Easy | [C++](Arrays/Search_insert_position.cpp) |
 | 5 | [268. Missing Number](https://leetcode.com/problems/missing-number/) | Easy | [C++](Arrays/Missing_num.cpp) |
+| 6 | [1295. Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/) | Easy | [C++](Arrays/Even_num_of_digits.cpp) |
 
 
 
