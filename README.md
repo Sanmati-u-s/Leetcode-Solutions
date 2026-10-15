@@ -27,6 +27,7 @@ My DSA practice journey using C++.
 ### Strings
 
 | # | Problem | Difficulty | Solution |
+|---|---|---|---|
 | 1 | [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/) | Easy | [C++](Strings/Valid_anagram.cpp) |
 
 
