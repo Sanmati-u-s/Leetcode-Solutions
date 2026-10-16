@@ -22,6 +22,8 @@ My DSA practice journey using C++.
 | 6 | [1295. Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/) | Easy | [C++](Arrays/Even_num_of_digits.cpp) |
 | 7 | [1346. Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/) | Easy | [C++](Arrays/Check_n_double.cpp) |
 | 8 | [1773. Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule/) | Easy | [C++](Arrays/Items_matching_rule.cpp) |
+| 9 | [2119. A Number After a Double Reversal](https://leetcode.com/problems/a-number-after-a-double-reversal/) | Easy | [C++](Arrays/Double_reversal.cpp) |
+
 
 
 
