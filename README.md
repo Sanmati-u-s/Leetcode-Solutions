@@ -38,3 +38,14 @@ My DSA practice journey using C++.
 | 1 | [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/) | Easy | [C++](Strings/Valid_anagram.cpp) |
 
 
+
+
+
+
+### Recursion
+
+| # | Problem | Difficulty | Solution |
+|---|---|---|---|
+| 1 | [258. Add Digits](https://leetcode.com/problems/add-digits/) | Easy | [C++](Recursion/Add_digits.cpp) |
+
+
