@@ -23,7 +23,7 @@ My DSA practice journey using C++.
 | 7 | [1346. Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/) | Easy | [C++](Arrays/Check_n_double.cpp) |
 | 8 | [1773. Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule/) | Easy | [C++](Arrays/Items_matching_rule.cpp) |
 | 9 | [2119. A Number After a Double Reversal](https://leetcode.com/problems/a-number-after-a-double-reversal/) | Easy | [C++](Arrays/Double_reversal.cpp) |
-
+| 10 | [2535. Difference Between Element Sum and Digit Sum of an Array](https://leetcode.com/problems/difference-between-element-sum-and-digit-sum-of-an-array/) | Easy | [C++](Arrays/Ele-dig-sum.cpp) |
 
 
 
