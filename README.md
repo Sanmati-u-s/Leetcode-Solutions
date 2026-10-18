@@ -24,7 +24,8 @@ My DSA practice journey using C++.
 | 8 | [1773. Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule/) | Easy | [C++](Arrays/Items_matching_rule.cpp) |
 | 9 | [2119. A Number After a Double Reversal](https://leetcode.com/problems/a-number-after-a-double-reversal/) | Easy | [C++](Arrays/Double_reversal.cpp) |
 | 10 | [2535. Difference Between Element Sum and Digit Sum of an Array](https://leetcode.com/problems/difference-between-element-sum-and-digit-sum-of-an-array/) | Easy | [C++](Arrays/Ele-dig-sum.cpp) |
-| 11 | [3550. Smallest Index With Digit Sum Equal to Index](https://leetcode.com/problems/smallest-index-with-digit-sum-equal-to-index/) | Easy | [C++](Arrays/Digit-sum-index.cpp) |
+| 11 | [2706. Buy Two Chocolates](https://leetcode.com/problems/bu-two-chocolates/) | Easy | [C++](Arrays/Buy-two-choco.cpp) |
+| 12 | [3550. Smallest Index With Digit Sum Equal to Index](https://leetcode.com/problems/smallest-index-with-digit-sum-equal-to-index/) | Easy | [C++](Arrays/Digit-sum-index.cpp) |
 
 
 
