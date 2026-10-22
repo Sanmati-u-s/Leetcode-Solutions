@@ -31,10 +31,6 @@ My DSA practice journey using C++.
 
 
 
-
-
-
-
 ### Strings
 
 | # | Problem | Difficulty | Solution |
@@ -52,4 +48,11 @@ My DSA practice journey using C++.
 |---|---|---|---|
 | 1 | [258. Add Digits](https://leetcode.com/problems/add-digits/) | Easy | [C++](Recursion/Add_digits.cpp) |
 
+
+
+### Bit
+
+| # | Problem | Difficulty | Solution |
+|---|---|---|---|
+| 1 | [338. Counting Bits](https://leetcode.com/problems/number-of-1-bits/) | Easy | [C++](Bit/number-of-1-bits.cpp) |
 
