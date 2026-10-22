@@ -54,5 +54,5 @@ My DSA practice journey using C++.
 
 | # | Problem | Difficulty | Solution |
 |---|---|---|---|
-| 1 | [191. Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | Easy | [C++](Bit/Number-1-bit.cpp) |
+| 1 | [191. Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | Easy | [C++](Bit/Number_1_bit.cpp) |
 
