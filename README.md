@@ -37,7 +37,8 @@ My DSA practice journey using C++.
 | # | Problem | Difficulty | Solution |
 |---|---|---|---|
 | 1 | [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | Easy | [C++](Strings/longest-prefix.cpp) |
-| 2 | [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/) | Easy | [C++](Strings/Valid_anagram.cpp) |
+| 2 | [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/) | Easy | [C++](Strings/Valid_anagram.cpp) [C++(code2)](Strings/Valid-anagram-easy.cpp)|
+
 
 
 
