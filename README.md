@@ -19,14 +19,15 @@ My DSA practice journey using C++.
 | 3 | [9. Palindrome Number](https://leetcode.com/problems/palindrome-number/) | Easy | [C++](Arrays/Palindrome_num.cpp) |
 | 4 | [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | Easy | [C++](Arrays/Remove-duplicates.cpp) |
 | 5 | [35. Search Insert Position](https://leetcode.com/problems/search-insert-position/) | Easy | [C++](Arrays/Search_insert_position.cpp) |
-| 6 | [268. Missing Number](https://leetcode.com/problems/missing-number/) | Easy | [C++](Arrays/Missing_num.cpp) |
-| 7 | [1295. Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/) | Easy | [C++](Arrays/Even_num_of_digits.cpp) |
-| 8 | [1346. Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/) | Easy | [C++](Arrays/Check_n_double.cpp) |
-| 9 | [1773. Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule/) | Easy | [C++](Arrays/Items_matching_rule.cpp) |
-| 10 | [2119. A Number After a Double Reversal](https://leetcode.com/problems/a-number-after-a-double-reversal/) | Easy | [C++](Arrays/Double_reversal.cpp) |
-| 11 | [2535. Difference Between Element Sum and Digit Sum of an Array](https://leetcode.com/problems/difference-between-element-sum-and-digit-sum-of-an-array/) | Easy | [C++](Arrays/Ele-dig-sum.cpp) |
-| 12 | [2706. Buy Two Chocolates](https://leetcode.com/problems/bu-two-chocolates/) | Easy | [C++](Arrays/Buy-two-choco.cpp) |
-| 13 | [3550. Smallest Index With Digit Sum Equal to Index](https://leetcode.com/problems/smallest-index-with-digit-sum-equal-to-index/) | Easy | [C++](Arrays/Digit-sum-index.cpp) |
+| 6 | [189. Rotate Array](https://leetcode.com/problems/rotate-array/) | Medium | [C++](Arrays/Rotate-array-to-right-by-k.cpp) [G4G,Similar](Arrays/Rotate-right-by-one)|
+| 7 | [268. Missing Number](https://leetcode.com/problems/missing-number/) | Easy | [C++](Arrays/Missing_num.cpp) |
+| 8 | [1295. Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/) | Easy | [C++](Arrays/Even_num_of_digits.cpp) |
+| 9 | [1346. Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/) | Easy | [C++](Arrays/Check_n_double.cpp) |
+| 10 | [1773. Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule/) | Easy | [C++](Arrays/Items_matching_rule.cpp) |
+| 11 | [2119. A Number After a Double Reversal](https://leetcode.com/problems/a-number-after-a-double-reversal/) | Easy | [C++](Arrays/Double_reversal.cpp) |
+| 12 | [2535. Difference Between Element Sum and Digit Sum of an Array](https://leetcode.com/problems/difference-between-element-sum-and-digit-sum-of-an-array/) | Easy | [C++](Arrays/Ele-dig-sum.cpp) |
+| 13 | [2706. Buy Two Chocolates](https://leetcode.com/problems/bu-two-chocolates/) | Easy | [C++](Arrays/Buy-two-choco.cpp) |
+| 14 | [3550. Smallest Index With Digit Sum Equal to Index](https://leetcode.com/problems/smallest-index-with-digit-sum-equal-to-index/) | Easy | [C++](Arrays/Digit-sum-index.cpp) |
 
 
 
